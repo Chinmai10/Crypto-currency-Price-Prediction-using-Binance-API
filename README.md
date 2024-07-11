@@ -1,4 +1,4 @@
-# Bitcoin Price Prediction and Analysis
+# CryptoCurrency Price Prediction and Analysis
 
 ## Introduction:
 This project aims to analyze historical Cryptocurrency price data ( here Bitcoin is taken as example ) and build predictive models for forecasting future price movements. It covers various aspects of data preparation, visualization, time series forecasting, and machine learning modeling using Python libraries such as pandas, numpy, matplotlib, seaborn, Plotly, Facebook Prophet, and XGBoost.
