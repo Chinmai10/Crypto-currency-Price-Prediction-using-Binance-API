@@ -5,7 +5,7 @@
 
 
 import pandas as pd
-from fbprophet import Prophet
+from prophet import Prophet
 
 INPUT_FILE = "bitcoin_daily_prices.csv"
 

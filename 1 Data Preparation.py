@@ -1,15 +1,10 @@
 
-# coding: utf-8
-
-# ## Data Preparation
 # 
 # The first step is to get the data. 
 # 
 # In this example, let us get the data from binance.com. We can use the binance python api.
 # 
-# https://python-binance.readthedocs.io/en/latest/
-
-# In[1]:
+# https://python-binance.readthedocs.io/en/latest/  
 
 
 import pandas as pd

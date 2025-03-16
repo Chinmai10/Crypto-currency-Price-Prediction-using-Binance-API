@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 color = sns.color_palette()
-get_ipython().run_line_magic('matplotlib', 'inline')
+
 
 
 # In[2]:
@@ -31,8 +31,6 @@ plt.ylabel('Price in USD', fontsize=12)
 plt.title("Closing price distribution of bitcoin", fontsize=15)
 plt.show()
 
-
-# In[4]:
 
 
 import plotly.graph_objects as go
